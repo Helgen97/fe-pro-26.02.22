@@ -5,3 +5,4 @@ Repository for course classworks and hometasks for Front End Pro
 
 ## Task List
 - [Task 1/ JS/ Operations on variables](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_1)
+- [Task 2/ JS/ Loops](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_2)
