@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+}
+
+.block {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10rem auto;
+}
+
+.block button, .back button{
+    padding: 1rem;
+    border: 2px black solid;
+    border-radius: 30px;
+    background-color: green;
+    font-weight: 700;
+    color: white;
+}
+
+.back {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.doc {
+    width: 400px;
+    background-color: white;
+    border: 2px black solid;
+    margin: 4rem auto;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.title {
+    color: black;
+    font-size: 1.4rem;
+}
+
+.body {
+    font-style: italic;
+}
+
+.footer {
+    width: 400px;
+    padding: 0.2rem;
+    height: fit-content;
+    text-align: center;
+    background-color: burlywood;
+    color: white;
+}
