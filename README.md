@@ -9,3 +9,4 @@ Repository for course classworks and hometasks for Front End Pro
 - [Task 3/ JS/ Arrays](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_3)
 - [Task 4/ JS/ Functions](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_4)
 - [Task 5/ JS/ Objects](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_5)
+- [Task 6/ JS/ Constructors](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_6)
