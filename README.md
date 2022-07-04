@@ -11,3 +11,4 @@ Repository for course classworks and hometasks for Front End Pro
 - [Task 5/ JS/ Objects](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_5)
 - [Task 6/ JS/ Constructors](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_6)
 - [Task 7/ JS/ ES6 ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_7)
+- [Task 8/ JS/ DOM ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_8)
