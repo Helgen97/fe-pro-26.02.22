@@ -13,3 +13,4 @@ Repository for course classworks and hometasks for Front End Pro
 - [Task 7/ JS/ ES6 ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_7)
 - [Task 8/ JS/ DOM ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_8)
 - [Task 9/ JS/ Regex and Styles ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_9)
+- [Task 10/ JS/ Events ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_10)
