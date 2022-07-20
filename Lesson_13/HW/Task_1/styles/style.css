@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'StarWars';
+    src: url(../font/SfDistantGalaxyAlternate-OE4d.ttf);
+}
+
+body {
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    font-family: 'StarWars';
+}
+
+header > img {
+    width: 500px;
+}
+
+h1 {
+    color: white;
+}
+
+.box {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.card {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 4px #2E67F8 solid;
+}
+
+.card > p {
+    color: white;
+}
+
+p > span {
+    color: wheat;
+}
+
+.card:hover {
+    border-color: #4A7DFF;
+}
+
+.card:nth-child(2n) {
+    border-color: #AB1822;
+}
+
+.card:nth-child(2n):hover {
+    border-color: #F72331;
+}
