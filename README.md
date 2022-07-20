@@ -15,3 +15,4 @@ Repository for course classworks and hometasks for Front End Pro
 - [Task 9/ JS/ Regex and Styles ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_9)
 - [Task 10/ JS/ Events ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_10)
 - [Task 11/ JS/ Events #2 ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_11)
+- [Task 12/ JS/ Events #3 ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_12)
