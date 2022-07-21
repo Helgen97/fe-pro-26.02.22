@@ -13,21 +13,40 @@ class Character {
 
 class Card {
 
-    constructor() {};
+    constructor(character = Character) { 
+        this.character = character;
+    };
 
-    createCard = (character = Character) => {
+    saveCharacter = () => {
+        localStorage.setItem(this.character.name, JSON.stringify(this.character));
+    }
+
+    removeCharacter = () => {
+        localStorage.removeItem(this.character.name)
+    }
+
+    createCard = () => {
         const div = document.createElement("div");
         div.classList.add("card");
 
-        for (let key in character) {
+        for (let key in this.character) {
             let p = document.createElement("p");
             let span = document.createElement("span");
 
             span.innerText = key + ": ";
-            p.innerText = character[key];
+            p.innerText = this.character[key];
             p.prepend(span)
             div.append(p);
         }
+
+        const saveButton = document.createElement("button")
+        saveButton.innerText = "Save Character"
+        saveButton.addEventListener("click", this.saveCharacter);
+
+        const removeButton = document.createElement("button")
+        removeButton.innerText = "Remove Character"
+        removeButton.addEventListener("click", this.removeCharacter);
+        div.append(saveButton, removeButton)
         return div;
     }
 }
@@ -47,8 +66,8 @@ const responce = fetch("https://swapi.dev/api/people", {
 responce.then((data) => {
     data.results.forEach(element => {
         let character = new Character(element);
-        let card = new Card();
-        cardBox.append(card.createCard(character));
+        let card = new Card(character);
+        cardBox.append(card.createCard());
     });
 })
 
