@@ -18,3 +18,4 @@ Repository for course classworks and hometasks for Front End Pro
 - [Task 12/ JS/ Events #3 ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_12)
 - [Task 13/ JS/ AJAX ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_13)
 - [Task 13.1/ JS/ OOP ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_13.1)
+- [Task 14/ JS/ React ](https://github.com/Helgen97/fe-pro-26.05.22/tree/main/Lesson_14)
